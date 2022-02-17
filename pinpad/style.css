@@ -1,0 +1,63 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+html {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#main-container {
+  background-color: #08415c;
+  display: flex;
+  border: 2px solid black;
+  width: 40vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+#display {
+  background: #bfb48f;
+  margin: 1em;
+  padding: 1em;
+  width: 80%;
+  height: 30px;
+  border: 3px solid black;
+}
+:is(#row1, #row2, #row3, #row4) {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#row5 {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+:is(#num-9, #num-8, #num-7, #num-6, #num-5, #num-4, #num-3, #num-2, #num-1, #num-d, #num-0) {
+  color: whitesmoke;
+  background: black;
+  margin: 1em;
+  padding: 1.5em;
+  width: 8.5vh;
+  text-align: center;
+  cursor: pointer;
+}
+#clear {
+  margin: 1em;
+  background: black;
+  color: whitesmoke;
+  padding: 1em;
+}
+#num-d {
+  color: red;
+}
+#num-s {
+  background: black;
+  margin: 1em;
+  padding: 1.5em;
+  width: 8.5vh;
+  text-align: center;
+  cursor: pointer;
+  color: green;
+}
