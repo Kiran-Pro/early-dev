@@ -1,0 +1,105 @@
+html {
+  background-image: url(https://cdn.wallpapersafari.com/20/71/vaAlMm.jpg);
+}
+.background {
+  position: relative;
+  margin-top: 5rem;
+}
+.join {
+  position: absolute;
+  margin-left: 43rem;
+  margin-top: 2rem;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: white;
+}
+.cod {
+  color: white;
+  position: absolute;
+  margin-left: 37.5rem;
+  margin-top: 5rem;
+  font-size: 5rem;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.of {
+  color: white;
+  position: absolute;
+  margin-left: 46.5rem;
+  margin-top: 7.3rem;
+  font-size: 1rem;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.sign-in {
+  color: white;
+  position: absolute;
+  margin-left: 38rem;
+  margin-top: 12rem;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#image {
+  margin-left: 35rem;
+  height: 40rem;
+  width: 25rem;
+}
+.form {
+  color: white;
+  position: absolute;
+  margin-left: 42.5rem;
+  margin-top: 16rem;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#button {
+  margin-left: 1px;
+  width: 10.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: white;
+}
+#link {
+  font-size: 10px;
+  margin-left: 7rem;
+}
+.checkbox {
+  width: 10.5rem;
+  font-size: 13px;
+}
+.or {
+  color: white;
+  position: absolute;
+  margin-left: 47rem;
+  margin-top: 30rem;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.console1 {
+  z-index: 1;
+  color: white;
+  position: absolute;
+  margin-left: 42.5rem;
+  margin-top: 30.9rem;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.console2 {
+  z-index: 1;
+  color: white;
+  position: absolute;
+  margin-left: 49rem;
+  margin-top: 32rem;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.signup {
+  color: white;
+  position: absolute;
+  margin-left: 42rem;
+  margin-top: 36rem;
+  font-size: 13px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+  color: teal;
+}
