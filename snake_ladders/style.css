@@ -1,0 +1,85 @@
+#main-container {
+  display: flex;
+}
+#hurdle {
+  display: flex;
+}
+.box {
+  background-color: green;
+  color: white;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  width: 50px;
+  border: 1px solid white;
+}
+#tokens {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  margin-left: 10px;
+}
+.dice {
+  height: 50px;
+  width: 50px;
+  border: 0.5px solid grey;
+  margin-top: 5px;
+  margin-left: 5px;
+  border-radius: 0.6rem;
+  text-align: center;
+  line-height: 50px;
+  color: blue;
+}
+#tokens2 {
+  display: flex;
+}
+.tok2 {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border: none solid black;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+#green {
+  background-color: green;
+}
+#red {
+  background-color: red;
+}
+#yellow {
+  background-color: yellow;
+}
+#violet {
+  background-color: purple;
+}
+#DICE {
+  display: flex;
+}
+#ladder1 {
+  position: relative;
+  left: 40.4rem;
+  height: 100px;
+  width: 100px;
+}
+#ladder2 {
+  position: relative;
+  left: 17.8rem;
+  top: 13rem;
+  height: 100px;
+  width: 100px;
+}
+#snake1 {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  left: 31.5rem;
+}
+#snake2 {
+  position: relative;
+  left: 38rem;
+  top: 23rem;
+  height: 133px;
+  width: 133px;
+}
